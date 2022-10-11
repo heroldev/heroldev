@@ -1,5 +1,5 @@
 ## Hi there!
-I'm Andrew, a student studying computer science and graphic design at [Minnesota State Mankato](https://mnsu.edu).
+I'm Andrew (he/him), a student studying computer science and graphic design at [Minnesota State Mankato](https://mnsu.edu).
 
 My passion is to turn dreams into reality through efficient code and clean design.
 
