@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there!
+I'm Andrew, a student studying computer science and graphic design at [Minnesota State Mankato](https://mnsu.edu).
+
+My passion is to turn dreams into reality through efficient code and clean design.
+
+### More about me (on the web):
+* [Personal Website](https://heroldev.net) - **currently under construction**
+* [LinkedIn](https://www.linkedin.com/in/andrew-herold/)
 
 <!--
 **heroldev/heroldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
