@@ -1,7 +1,7 @@
 ## Hi there!
 I'm Andrew (he/him), a student studying computer science and graphic design at [Minnesota State Mankato](https://mnsu.edu).
 
-My passion is to turn dreams into reality through efficient code and clean design.
+My passion is turning dreams into reality through efficient code and clean design.
 
 ### More about me (on the web):
 * [Personal Website](https://heroldev.net) - **currently under construction**
