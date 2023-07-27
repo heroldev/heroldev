@@ -1,8 +1,6 @@
 ## Hi there!
 I'm Andrew (he/him), an aspiring software developer and graphic designer studying at [Minnesota State Mankato](https://mnsu.edu).
 
-My passion is turning dreams into reality through efficient code and clean design.
-
 ### More about me (on the web):
 * [Personal Website](https://heroldev.net) - **currently under construction**
 * [LinkedIn](https://www.linkedin.com/in/andrew-herold/)
