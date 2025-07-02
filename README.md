@@ -1,12 +1,10 @@
-## Hi there!
-I'm Andrew (he/him), a software engineer and graphic designer studying at [Minnesota State Mankato](https://mnsu.edu).
+## hi there!
+I'm Andrew (he/him), a software engineer and aspiring typographer.
 
-To check out a list of personal projects, click my website below!
-### More about me (on the web):
-* [Personal Website](https://heroldev.net)
+to check out a list of personal projects, click my website below!
+### more about me (on the web):
+* [personal website](https://heroldev.net)
 * [LinkedIn](https://www.linkedin.com/in/andrew-herold/)
-
-Thanks for stopping by!
 
 <!--
 **heroldev/heroldev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
